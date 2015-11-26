@@ -1,0 +1,21 @@
+{
+  "name": "netplanning-website",
+  "version": "1.0.0",
+  "description": "Simple landing page for the NetPlanning app.",
+  "scripts": {
+    "start": "http-server -p 50001 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabman83/netplanning-website.git"
+  },
+  "author": "Antonino Parisi <tabman83@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabman83/netplanning-website/issues"
+  },
+  "homepage": "https://github.com/tabman83/netplanning-website#readme",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
